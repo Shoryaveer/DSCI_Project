@@ -94,7 +94,7 @@ empty_obs
 .dl-inline>dt, .dl-inline>dd {float: none; width: auto; display: inline-block}
 .dl-inline>dt::after {content: ":\0020"; padding-right: .5ex}
 .dl-inline>dt:not(:first-of-type) {padding-left: .5ex}
-</style><dl class=dl-inline><dt>X1</dt><dd>0</dd><dt>X2</dt><dd>0</dd><dt>X3</dt><dd>0</dd><dt>X4</dt><dd>0</dd><dt>X5</dt><dd>0</dd><dt>X6</dt><dd>0</dd><dt>X7</dt><dd>0</dd><dt>X8</dt><dd>0</dd><dt>X9</dt><dd>0</dd><dt>X10</dt><dd>0</dd><dt>X11</dt><dd>0</dd><dt>X12</dt><dd>0</dd><dt>X13</dt><dd>0</dd><dt>X14</dt><dd>0</dd><dt>X15</dt><dd>0</dd><dt>X16</dt><dd>0</dd><dt>X17</dt><dd>0</dd><dt>X18</dt><dd>0</dd><dt>X19</dt><dd>0</dd><dt>X20</dt><dd>0</dd><dt>X21</dt><dd>0</dd><dt>X22</dt><dd>0</dd><dt>X23</dt><dd>0</dd><dt>X24</dt><dd>0</dd><dt>X25</dt><dd>0</dd><dt>X26</dt><dd>0</dd><dt>X27</dt><dd>0</dd><dt>X28</dt><dd>0</dd><dt>X29</dt><dd>0</dd><dt>X30</dt><dd>0</dd><dt>X31</dt><dd>0</dd><dt>X32</dt><dd>0</dd><dt>X33</dt><dd>0</dd><dt>X34</dt><dd>0</dd><dt>X35</dt><dd>0</dd><dt>X36</dt><dd>0</dd><dt>X37</dt><dd>0</dd><dt>X38</dt><dd>0</dd><dt>X39</dt><dd>0</dd><dt>X40</dt><dd>0</dd><dt>X41</dt><dd>0</dd><dt>X42</dt><dd>0</dd><dt>X43</dt><dd>0</dd><dt>X44</dt><dd>0</dd><dt>X45</dt><dd>0</dd><dt>X46</dt><dd>0</dd><dt>X47</dt><dd>0</dd><dt>X48</dt><dd>0</dd><dt>X49</dt><dd>0</dd><dt>X50</dt><dd>0</dd><dt>X51</dt><dd>0</dd><dt>X52</dt><dd>0</dd><dt>X53</dt><dd>0</dd><dt>X54</dt><dd>0</dd><dt>X55</dt><dd>0</dd><dt>X56</dt><dd>0</dd><dt>X57</dt><dd>0</dd><dt>X58</dt><dd>0</dd><dt>X59</dt><dd>0</dd><dt>X60</dt><dd>0</dd><dt>type</dt><dd>0</dd></dl>
+</style><dl class=dl-inline>X1 - X60 No NULL</dl>
 
 - We checked for empty cells in column; no empty cells
 
